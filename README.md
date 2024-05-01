@@ -23,8 +23,8 @@ and visualization tools like Excel, SQL, Power BI, and Tableau. Skilled in uncov
 
 ## Projects
 
-- **HR Data Analysis Dashboard**: Developed a dashboard using Power BI to analyze financial data, identify trends, and provide insights to stakeholders.
-- **Sales Forecasting Model**: Built a sales forecasting model in Excel using historical sales data and statistical techniques to predict future sales trends.
+- **HR Data Analysis Dashboard**: Developed a dashboards using Power BI,Excel and Tableau  to analyze Hr data, identify trends, and provide insights to stakeholders.Also used MySQl workbench for analysis of data.
+
 https://github.com/PinkiRajeesh/Projects
 ## Education
 
@@ -34,4 +34,4 @@ https://github.com/PinkiRajeesh/Projects
 
 - Email: pinkirajeesh@gmail.com
 - LinkedIn: [www.linkedin.com/in/pinkirajeesh0107b6109](https://www.linkedin.com/in/pinki-rajeesh-0107b6109/)
-- GitHub: [[Your GitHub Profile](https://github.com/your-github-profile)](https://github.com/PinkiRajeesh)
+- GitHub: (https://github.com/your-github-profile)](https://github.com/PinkiRajeesh)
