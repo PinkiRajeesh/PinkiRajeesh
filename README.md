@@ -38,5 +38,5 @@ and visualization tools like Excel, SQL, Power BI, and Tableau. Skilled in uncov
 ## Contact
 
 - Email: pinkirajeesh@gmail.com
-- LinkedIn:linkedin.com/in/pinkirajeesh0107b6109
+- LinkedIn: www.linkedin.com/in/pinkirajeesh0107b6109
 - GitHub: [Your GitHub Profile](https://github.com/your-github-profile)
