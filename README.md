@@ -25,7 +25,7 @@ and visualization tools like Excel, SQL, Power BI, and Tableau. Skilled in uncov
 
 - **HR Data Analysis Dashboard**: Developed a dashboard using Power BI to analyze financial data, identify trends, and provide insights to stakeholders.
 - **Sales Forecasting Model**: Built a sales forecasting model in Excel using historical sales data and statistical techniques to predict future sales trends.
-
+https://github.com/PinkiRajeesh/Projects
 ## Education
 
 - Bachelor's Degree in Computer Science (4 Year of Graduation)
@@ -34,4 +34,4 @@ and visualization tools like Excel, SQL, Power BI, and Tableau. Skilled in uncov
 
 - Email: pinkirajeesh@gmail.com
 - LinkedIn: [www.linkedin.com/in/pinkirajeesh0107b6109](https://www.linkedin.com/in/pinki-rajeesh-0107b6109/)
-- GitHub: [Your GitHub Profile](https://github.com/your-github-profile)
+- GitHub: [[Your GitHub Profile](https://github.com/your-github-profile)](https://github.com/PinkiRajeesh)
